@@ -22,7 +22,10 @@ The primary source of data used here is Data sale.csv and tis is open source dat
   * SQL Server [download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)(for querying and analysis)
   * Power BI for creating a report
   * MS powerpoint ( for presentation)
-  * 
+
+### Data Cleaning and Preparation
+
+in the initial phase of the Data cleaning and prepations. we perform the following actions; Data loading and inspection Handling missing variables Data Cleaning and formatting
 
 
 
